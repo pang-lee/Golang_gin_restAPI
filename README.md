@@ -8,15 +8,13 @@ If you want to init the gin framework you need to type down
 => go mod init (with file name)  
 EX: go mod init example/GO_API  
 
-
-
+--------------------------------
 
 If you want to install some module you need to type down  
 => go get (with module)
 EX: go get github.com/gin-gonic/gin  
 
-
-
+--------------------------------
 
 If you want to run the application you needto type down  
 => go run (with .go file)
